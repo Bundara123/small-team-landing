@@ -55,8 +55,9 @@
     </div>
   </div>
   <OurTeams />
-  <CooperationVue />
+
   <CustomerSupport />
+  <CooperationVue />
   <Pricing />
 </template>
 
